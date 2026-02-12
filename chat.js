@@ -21,5 +21,7 @@ function addMessage(text, sender) {
     bubble.textContent = text;
     chatWindow.appendChild(bubble);
     chatWindow.scrollTop = chatWindow.scrollHeight;
-} 
+}  
+
+
 
