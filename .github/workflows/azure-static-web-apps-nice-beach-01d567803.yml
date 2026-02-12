@@ -27,4 +27,5 @@ jobs:
           # YOUR WEBSITE IS IN THE ROOT OF THE REPO
           app_location: "/"
           api_location: ""
-          output_location: "/"
+          output_location: "/" 
+
